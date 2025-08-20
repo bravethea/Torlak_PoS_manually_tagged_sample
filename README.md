@@ -10,5 +10,5 @@ The data was annotated within the TraCeBa project, funded by the Era Net Rus Plu
 
 Current exemplary run:
 ```
-python `mte2upos.py tor_example.tsv tor_example.upos.tsv
+python mte2upos.py tor_example.tsv tor_example.upos.tsv
 ```
