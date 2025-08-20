@@ -1,0 +1,13 @@
+baci	baci	baciti	Vmr3s	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+se	se	sebe	Px---a	_	_
+nešto	nešto	nešto	Pi3n-n	PRON	Case=Nom|Gender=Neut|PronType=Ind
+preko	preko	prek	Agpnsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+to	to	taj	Pd-nsa	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+.	.	.	Z	PUNCT	_
+
+bolku	bolku	bolka	Ncmsa	_	_
+.	.	.	Z	PUNCT	_
+
+imam	imam	imati	Vmr1s	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+.	.	.	Z	PUNCT	_
+
