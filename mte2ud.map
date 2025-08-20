@@ -1,0 +1,1212 @@
+
+Agcfpay	ADJ	Case=Acc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfpdy	ADJ	Case=Dat|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfpgy	ADJ	Case=Gen|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfpiy	ADJ	Case=Ins|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfply	ADJ	Case=Loc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfpny	ADJ	Case=Nom|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfpvy	ADJ	Case=Voc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Plur
+Agcfsan
+Agcfsay	ADJ	Case=Acc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcfsdy	ADJ	Case=Dat|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcfsgy	ADJ	Case=Gen|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcfsiy	ADJ	Case=Ins|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcfsly	ADJ	Case=Loc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcfsn
+Agcfsny	ADJ	Case=Nom|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcfsvy	ADJ	Case=Voc|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing
+Agcmpa
+Agcmpay	ADJ	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmpayt
+Agcmpdy	ADJ	Case=Dat|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmpgy	ADJ	Case=Gen|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmpiy	ADJ	Case=Ins|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmply	ADJ	Case=Loc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmpn
+Agcmpny	ADJ	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmpvy	ADJ	Case=Voc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur
+Agcmsay
+Agcmsayn	ADJ	Animacy=Inan|Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsayy	ADJ	Animacy=Anim|Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsdy	ADJ	Case=Dat|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsgy	ADJ	Case=Gen|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsiy	ADJ	Case=Ins|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsly	ADJ	Case=Loc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsn
+Agcmsnn
+Agcmsny	ADJ	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcmsny-t
+Agcmsnyt
+Agcmsvy	ADJ	Case=Voc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing
+Agcnpay	ADJ	Case=Acc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnpdy	ADJ	Case=Dat|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnpgy	ADJ	Case=Gen|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnpiy	ADJ	Case=Ins|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnply	ADJ	Case=Loc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnpny	ADJ	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnpvy	ADJ	Case=Voc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Plur
+Agcnsay	ADJ	Case=Acc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agcnsdy	ADJ	Case=Dat|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agcnsgy	ADJ	Case=Gen|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agcnsiy	ADJ	Case=Ins|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agcnsly	ADJ	Case=Loc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agcnsny	ADJ	Case=Nom|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agcnsvy	ADJ	Case=Voc|Definite=Def|Degree=Cmp|Gender=Neut|Number=Sing
+Agonsny
+Agpdsn
+Agpfpa
+Agpfpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfpn
+Agpfpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur
+Agpfsa
+Agpfsa--t
+Agpfsan
+Agpfsay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpfsayn
+Agpfsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpfsg
+Agpfsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpfsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpfsl
+Agpfsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpfsn
+Agpfsn--t
+Agpfsnn
+Agpfsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpfsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing
+Agpmpa
+Agpmpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmpay-t
+Agpmpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmpg
+Agpmpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmpn
+Agpmpnn
+Agpmpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmpny-t
+Agpmpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur
+Agpmsa
+Agpmsan
+Agpmsann	ADJ	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsany	ADJ	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsay
+Agpmsayn	ADJ	Animacy=Inan|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsayy	ADJ	Animacy=Anim|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsdn	ADJ	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsgn	ADJ	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsln	ADJ	Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsn
+Agpmsnn	ADJ	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsvn	ADJ	Case=Voc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing
+Agpmsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing
+Agpnpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnpn
+Agpnpn--t
+Agpnpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur
+Agpnsa
+Agpnsa--t
+Agpnsany
+Agpnsay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsdn	ADJ	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsgn	ADJ	Case=Gen|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsln	ADJ	Case=Loc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsn
+Agpnsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpnsnyt
+Agpnsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing
+Agpsay
+Agpsay-v
+Agsfpay	ADJ	Case=Acc|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfpdy	ADJ	Case=Dat|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfpgy	ADJ	Case=Gen|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfpiy	ADJ	Case=Ins|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfply	ADJ	Case=Loc|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfpny	ADJ	Case=Nom|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfpvy	ADJ	Case=Voc|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur
+Agsfsay	ADJ	Case=Acc|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsfsdy	ADJ	Case=Dat|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsfsgy	ADJ	Case=Gen|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsfsiy	ADJ	Case=Ins|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsfsly	ADJ	Case=Loc|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsfsn
+Agsfsny	ADJ	Case=Nom|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsfsvy	ADJ	Case=Voc|Definite=Def|Degree=Sup|Gender=Fem|Number=Sing
+Agsmpay	ADJ	Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmpdy	ADJ	Case=Dat|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmpg
+Agsmpgy	ADJ	Case=Gen|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmpiy	ADJ	Case=Ins|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmply	ADJ	Case=Loc|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmpny	ADJ	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmpvy	ADJ	Case=Voc|Definite=Def|Degree=Sup|Gender=Masc|Number=Plur
+Agsmsayn	ADJ	Animacy=Inan|Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsayy	ADJ	Animacy=Anim|Case=Acc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsdy	ADJ	Case=Dat|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsgy	ADJ	Case=Gen|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsiy	ADJ	Case=Ins|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsly	ADJ	Case=Loc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsn
+Agsmsnn
+Agsmsny	ADJ	Case=Nom|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsmsvy	ADJ	Case=Voc|Definite=Def|Degree=Sup|Gender=Masc|Number=Sing
+Agsnpay	ADJ	Case=Acc|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnpdy	ADJ	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnpgy	ADJ	Case=Gen|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnpiy	ADJ	Case=Ins|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnply	ADJ	Case=Loc|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnpny	ADJ	Case=Nom|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnpvy	ADJ	Case=Voc|Definite=Def|Degree=Sup|Gender=Neut|Number=Plur
+Agsnsa
+Agsnsay	ADJ	Case=Acc|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Agsnsdy	ADJ	Case=Dat|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Agsnsgy	ADJ	Case=Gen|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Agsnsiy	ADJ	Case=Ins|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Agsnsly	ADJ	Case=Loc|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Agsnsny	ADJ	Case=Nom|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Agsnsvy	ADJ	Case=Voc|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing
+Apcfsnny
+Appfpa
+Appfpan
+Appfpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfpn
+Appfpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass
+Appfsa
+Appfsay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appfsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appfsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appfsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appfsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appfsn
+Appfsnn
+Appfsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appfsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass
+Appmpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmpn
+Appmpnn
+Appmpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass
+Appmsann	ADJ	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsany	ADJ	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsayn	ADJ	Animacy=Inan|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsayy	ADJ	Animacy=Anim|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsdn	ADJ	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsgn	ADJ	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsln	ADJ	Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsn
+Appmsnn	ADJ	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsvn	ADJ	Case=Voc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appmsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass
+Appnpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass
+Appnsa
+Appnsan-t
+Appnsay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsay-t
+Appnsdn	ADJ	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsgn	ADJ	Case=Gen|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsln	ADJ	Case=Loc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsn
+Appnsnn
+Appnsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Appnsnyn
+Appnsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass
+Aspfnn
+Aspfpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|Poss=Yes
+Aspfsay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspfsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspfsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspfsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspfsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspfsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspfsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes
+Aspmpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmpn
+Aspmpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes
+Aspmsan
+Aspmsann	ADJ	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsany	ADJ	Animacy=Anim|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsayy	ADJ	Animacy=Anim|Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsdn	ADJ	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsgn	ADJ	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsln	ADJ	Case=Loc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsnn	ADJ	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspmsny
+Aspmsvn	ADJ	Case=Voc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes
+Aspnpay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnpdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnpgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnpiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnply	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnpny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnpvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur|Poss=Yes
+Aspnsa
+Aspnsay	ADJ	Case=Acc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsdn	ADJ	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsdy	ADJ	Case=Dat|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsgn	ADJ	Case=Gen|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsgy	ADJ	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsiy	ADJ	Case=Ins|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsln	ADJ	Case=Loc|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsly	ADJ	Case=Loc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsny	ADJ	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Aspnsvy	ADJ	Case=Voc|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|Poss=Yes
+Cc	CCONJ	_
+Cs	SCONJ	_
+I	INTJ	_
+Mdc	NUM	NumType=Card
+Mdm	NUM	NumType=Mult
+Mdo	ADJ	NumType=Ord
+Mds	NUM	NumType=Mult
+Mlc	NUM	NumType=Card
+Mlc--a	NUM	Case=Acc|NumType=Card
+Mlc--d	NUM	Case=Dat|NumType=Card
+Mlc--g	NUM	Case=Gen|NumType=Card
+Mlc--i	NUM	Case=Ins|NumType=Card
+Mlc--l	NUM	Case=Loc|NumType=Card
+Mlc--n	NUM	Case=Nom|NumType=Card
+Mlc--v	NUM	Case=Voc|NumType=Card
+Mlcf-a	NUM	Case=Acc|Gender=Fem|NumType=Card
+Mlcf-d	NUM	Case=Dat|Gender=Fem|NumType=Card
+Mlcf-g	NUM	Case=Gen|Gender=Fem|NumType=Card
+Mlcf-i	NUM	Case=Ins|Gender=Fem|NumType=Card
+Mlcf-l	NUM	Case=Loc|Gender=Fem|NumType=Card
+Mlcf-n	NUM	Case=Nom|Gender=Fem|NumType=Card
+Mlcf-v	NUM	Case=Voc|Gender=Fem|NumType=Card
+Mlcfpa	NUM	Case=Acc|Gender=Fem|Number=Plur|NumType=Card
+Mlcfpd	NUM	Case=Dat|Gender=Fem|Number=Plur|NumType=Card
+Mlcfpg	NUM	Case=Gen|Gender=Fem|Number=Plur|NumType=Card
+Mlcfpi	NUM	Case=Ins|Gender=Fem|Number=Plur|NumType=Card
+Mlcfpl	NUM	Case=Loc|Gender=Fem|Number=Plur|NumType=Card
+Mlcfpn	NUM	Case=Nom|Gender=Fem|Number=Plur|NumType=Card
+Mlcfpv	NUM	Case=Voc|Gender=Fem|Number=Plur|NumType=Card
+Mlcfsa	NUM	Case=Acc|Gender=Fem|Number=Sing|NumType=Card
+Mlcfsay
+Mlcfsd	NUM	Case=Dat|Gender=Fem|Number=Sing|NumType=Card
+Mlcfsg	NUM	Case=Gen|Gender=Fem|Number=Sing|NumType=Card
+Mlcfsi	NUM	Case=Ins|Gender=Fem|Number=Sing|NumType=Card
+Mlcfsl	NUM	Case=Loc|Gender=Fem|Number=Sing|NumType=Card
+Mlcfsn	NUM	Case=Nom|Gender=Fem|Number=Sing|NumType=Card
+Mlcfsn-t
+Mlcfsv	NUM	Case=Voc|Gender=Fem|Number=Sing|NumType=Card
+Mlcm
+Mlcm-a	NUM	Case=Acc|Gender=Masc|NumType=Card
+Mlcm-d	NUM	Case=Dat|Gender=Masc|NumType=Card
+Mlcm-g	NUM	Case=Gen|Gender=Masc|NumType=Card
+Mlcm-i	NUM	Case=Ins|Gender=Masc|NumType=Card
+Mlcm-l	NUM	Case=Loc|Gender=Masc|NumType=Card
+Mlcm-n	NUM	Case=Nom|Gender=Masc|NumType=Card
+Mlcm-v	NUM	Case=Voc|Gender=Masc|NumType=Card
+Mlcmpa	NUM	Case=Acc|Gender=Masc|Number=Plur|NumType=Card
+Mlcmpd	NUM	Case=Dat|Gender=Masc|Number=Plur|NumType=Card
+Mlcmpg	NUM	Case=Gen|Gender=Masc|Number=Plur|NumType=Card
+Mlcmpi	NUM	Case=Ins|Gender=Masc|Number=Plur|NumType=Card
+Mlcmpl	NUM	Case=Loc|Gender=Masc|Number=Plur|NumType=Card
+Mlcmpn	NUM	Case=Nom|Gender=Masc|Number=Plur|NumType=Card
+Mlcmpv	NUM	Case=Voc|Gender=Masc|Number=Plur|NumType=Card
+Mlcmsa
+Mlcmsan	NUM	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsay	NUM	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsd	NUM	Case=Dat|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsg	NUM	Case=Gen|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsi	NUM	Case=Ins|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsl	NUM	Case=Loc|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsn	NUM	Case=Nom|Gender=Masc|Number=Sing|NumType=Card
+Mlcmsnn
+Mlcmsv	NUM	Case=Voc|Gender=Masc|Number=Sing|NumType=Card
+Mlcn
+Mlcn-a	NUM	Case=Acc|Gender=Neut|NumType=Card
+Mlcn-d	NUM	Case=Dat|Gender=Neut|NumType=Card
+Mlcn-g	NUM	Case=Gen|Gender=Neut|NumType=Card
+Mlcn-i	NUM	Case=Ins|Gender=Neut|NumType=Card
+Mlcn-l	NUM	Case=Loc|Gender=Neut|NumType=Card
+Mlcn-n	NUM	Case=Nom|Gender=Neut|NumType=Card
+Mlcn-v	NUM	Case=Voc|Gender=Neut|NumType=Card
+Mlcnpa	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Card
+Mlcnpd	NUM	Case=Dat|Gender=Neut|Number=Plur|NumType=Card
+Mlcnpg	NUM	Case=Gen|Gender=Neut|Number=Plur|NumType=Card
+Mlcnpi	NUM	Case=Ins|Gender=Neut|Number=Plur|NumType=Card
+Mlcnpl	NUM	Case=Loc|Gender=Neut|Number=Plur|NumType=Card
+Mlcnpn	NUM	Case=Nom|Gender=Neut|Number=Plur|NumType=Card
+Mlcnpv	NUM	Case=Voc|Gender=Neut|Number=Plur|NumType=Card
+Mlcnsa	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card
+Mlcnsay
+Mlcnsd	NUM	Case=Dat|Gender=Neut|Number=Sing|NumType=Card
+Mlcnsg	NUM	Case=Gen|Gender=Neut|Number=Sing|NumType=Card
+Mlcnsi	NUM	Case=Ins|Gender=Neut|Number=Sing|NumType=Card
+Mlcnsl	NUM	Case=Loc|Gender=Neut|Number=Sing|NumType=Card
+Mlcnsn	NUM	Case=Nom|Gender=Neut|Number=Sing|NumType=Card
+Mlcnsv	NUM	Case=Voc|Gender=Neut|Number=Sing|NumType=Card
+Mlo
+Mlofpa	ADJ	Case=Acc|Gender=Fem|Number=Plur
+Mlofpd	ADJ	Case=Dat|Gender=Fem|Number=Plur
+Mlofpg	ADJ	Case=Gen|Gender=Fem|Number=Plur
+Mlofpi	ADJ	Case=Ins|Gender=Fem|Number=Plur
+Mlofpl	ADJ	Case=Loc|Gender=Fem|Number=Plur
+Mlofpn	ADJ	Case=Nom|Gender=Fem|Number=Plur
+Mlofpv	ADJ	Case=Voc|Gender=Fem|Number=Plur
+Mlofsa	ADJ	Case=Acc|Gender=Fem|Number=Sing
+Mlofsa-t
+Mlofsat
+Mlofsd	ADJ	Case=Dat|Gender=Fem|Number=Sing
+Mlofsg	ADJ	Case=Gen|Gender=Fem|Number=Sing
+Mlofsi	ADJ	Case=Ins|Gender=Fem|Number=Sing
+Mlofsl	ADJ	Case=Loc|Gender=Fem|Number=Sing
+Mlofsn	ADJ	Case=Nom|Gender=Fem|Number=Sing
+Mlofsv	ADJ	Case=Voc|Gender=Fem|Number=Sing
+Mlompa	ADJ	Case=Acc|Gender=Masc|Number=Plur
+Mlompd	ADJ	Case=Dat|Gender=Masc|Number=Plur
+Mlompg	ADJ	Case=Gen|Gender=Masc|Number=Plur
+Mlompi	ADJ	Case=Ins|Gender=Masc|Number=Plur
+Mlompl	ADJ	Case=Loc|Gender=Masc|Number=Plur
+Mlompn	ADJ	Case=Nom|Gender=Masc|Number=Plur
+Mlompv	ADJ	Case=Voc|Gender=Masc|Number=Plur
+Mlomsa
+Mlomsan	ADJ	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
+Mlomsay	ADJ	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing
+Mlomsd	ADJ	Case=Dat|Gender=Masc|Number=Sing
+Mlomsg	ADJ	Case=Gen|Gender=Masc|Number=Sing
+Mlomsgy
+Mlomsi	ADJ	Case=Ins|Gender=Masc|Number=Sing
+Mlomsl	ADJ	Case=Loc|Gender=Masc|Number=Sing
+Mlomsn	ADJ	Case=Nom|Gender=Masc|Number=Sing
+Mlomsn-n
+Mlomsn-t
+Mlomsny
+Mlomsv	ADJ	Case=Voc|Gender=Masc|Number=Sing
+Mlonpa	ADJ	Case=Acc|Gender=Neut|Number=Plur
+Mlonpd	ADJ	Case=Dat|Gender=Neut|Number=Plur
+Mlonpg	ADJ	Case=Gen|Gender=Neut|Number=Plur
+Mlonpi	ADJ	Case=Ins|Gender=Neut|Number=Plur
+Mlonpl	ADJ	Case=Loc|Gender=Neut|Number=Plur
+Mlonpn	ADJ	Case=Nom|Gender=Neut|Number=Plur
+Mlonpv	ADJ	Case=Voc|Gender=Neut|Number=Plur
+Mlonsa	ADJ	Case=Acc|Gender=Neut|Number=Sing
+Mlonsa-t
+Mlonsd	ADJ	Case=Dat|Gender=Neut|Number=Sing
+Mlonsg	ADJ	Case=Gen|Gender=Neut|Number=Sing
+Mlonsi	ADJ	Case=Ins|Gender=Neut|Number=Sing
+Mlonsl	ADJ	Case=Loc|Gender=Neut|Number=Sing
+Mlonsn	ADJ	Case=Nom|Gender=Neut|Number=Sing
+Mlonsv	ADJ	Case=Voc|Gender=Neut|Number=Sing
+Mls	NUM	NumType=Mult
+Mlsf-a	NUM	Case=Acc|Gender=Fem|NumType=Mult
+Mlsf-d	NUM	Case=Dat|Gender=Fem|NumType=Mult
+Mlsf-g	NUM	Case=Gen|Gender=Fem|NumType=Mult
+Mlsf-i	NUM	Case=Ins|Gender=Fem|NumType=Mult
+Mlsf-l	NUM	Case=Loc|Gender=Fem|NumType=Mult
+Mlsf-n	NUM	Case=Nom|Gender=Fem|NumType=Mult
+Mlsm-a	NUM	Case=Acc|Gender=Masc|NumType=Mult
+Mlsm-g	NUM	Case=Gen|Gender=Masc|NumType=Mult
+Mlsm-l	NUM	Case=Loc|Gender=Masc|NumType=Mult
+Mlsm-n	NUM	Case=Nom|Gender=Masc|NumType=Mult
+Mlsn-a	NUM	Case=Acc|Gender=Neut|NumType=Mult
+Mlsn-d	NUM	Case=Dat|Gender=Neut|NumType=Mult
+Mlsn-g	NUM	Case=Gen|Gender=Neut|NumType=Mult
+Mlsn-i	NUM	Case=Ins|Gender=Neut|NumType=Mult
+Mlsn-l	NUM	Case=Loc|Gender=Neut|NumType=Mult
+Mlsn-n	NUM	Case=Nom|Gender=Neut|NumType=Mult
+Mlsn-v	NUM	Case=Voc|Gender=Neut|NumType=Mult
+Mrc	NUM	NumType=Card
+Mro	ADJ	NumType=Ord
+Ncfnn
+Ncfnv
+Ncfpa	NOUN	Case=Acc|Gender=Fem|Number=Plur
+Ncfpa-n
+Ncfpa-t
+Ncfpa-v
+Ncfpant
+Ncfpay
+Ncfpd	NOUN	Case=Dat|Gender=Fem|Number=Plur
+Ncfpg	NOUN	Case=Gen|Gender=Fem|Number=Plur
+Ncfpg-t
+Ncfpi	NOUN	Case=Ins|Gender=Fem|Number=Plur
+Ncfpl	NOUN	Case=Loc|Gender=Fem|Number=Plur
+Ncfpn	NOUN	Case=Nom|Gender=Fem|Number=Plur
+Ncfpn-n
+Ncfpn-t
+Ncfpn-v
+Ncfpv	NOUN	Case=Voc|Gender=Fem|Number=Plur
+Ncfsa	NOUN	Case=Acc|Gender=Fem|Number=Sing
+Ncfsa-n
+Ncfsa-t
+Ncfsa-v
+Ncfsan
+Ncfsant
+Ncfsd	NOUN	Case=Dat|Gender=Fem|Number=Sing
+Ncfsg	NOUN	Case=Gen|Gender=Fem|Number=Sing
+Ncfsg-t
+Ncfsgnt
+Ncfsi	NOUN	Case=Ins|Gender=Fem|Number=Sing
+Ncfsl	NOUN	Case=Loc|Gender=Fem|Number=Sing
+Ncfslnt
+Ncfsn	NOUN	Case=Nom|Gender=Fem|Number=Sing
+Ncfsn-n
+Ncfsn-t
+Ncfsn-v
+Ncfsnnt
+Ncfsnt
+Ncfsv	NOUN	Case=Voc|Gender=Fem|Number=Sing
+Ncmpa	NOUN	Case=Acc|Gender=Masc|Number=Plur
+Ncmpa-t
+Ncmpan
+Ncmpann
+Ncmpd	NOUN	Case=Dat|Gender=Masc|Number=Plur
+Ncmpg	NOUN	Case=Gen|Gender=Masc|Number=Plur
+Ncmpgn
+Ncmpgy
+Ncmpi	NOUN	Case=Ins|Gender=Masc|Number=Plur
+Ncmpl	NOUN	Case=Loc|Gender=Masc|Number=Plur
+Ncmpn	NOUN	Case=Nom|Gender=Masc|Number=Plur
+Ncmpn-t
+Ncmpn-v
+Ncmpv	NOUN	Case=Voc|Gender=Masc|Number=Plur
+Ncmsa
+Ncmsa-n
+Ncmsa-t
+Ncmsa-v
+Ncmsan	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
+Ncmsan-t
+Ncmsant
+Ncmsay	NOUN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing
+Ncmsay-n
+Ncmsayt
+Ncmsd	NOUN	Case=Dat|Gender=Masc|Number=Sing
+Ncmsg	NOUN	Case=Gen|Gender=Masc|Number=Sing
+Ncmsg-t
+Ncmsg-v
+Ncmsi	NOUN	Case=Ins|Gender=Masc|Number=Sing
+Ncmsl	NOUN	Case=Loc|Gender=Masc|Number=Sing
+Ncmsl-t
+Ncmsln
+Ncmslnt
+Ncmsn	NOUN	Case=Nom|Gender=Masc|Number=Sing
+Ncmsn-t
+Ncmsn-v
+Ncmsna
+Ncmsnay
+Ncmsnn
+Ncmsnnt
+Ncmsnyt
+Ncmsv	NOUN	Case=Voc|Gender=Masc|Number=Sing
+Ncmsvn
+Ncmsyv
+Ncnman
+Ncnpa	NOUN	Case=Acc|Gender=Neut|Number=Plur
+Ncnpa-n
+Ncnpa-t
+Ncnpa-v
+Ncnpd	NOUN	Case=Dat|Gender=Neut|Number=Plur
+Ncnpg	NOUN	Case=Gen|Gender=Neut|Number=Plur
+Ncnpi	NOUN	Case=Ins|Gender=Neut|Number=Plur
+Ncnpl	NOUN	Case=Loc|Gender=Neut|Number=Plur
+Ncnpn	NOUN	Case=Nom|Gender=Neut|Number=Plur
+Ncnpn-n
+Ncnpn-t
+Ncnpn-v
+Ncnpnnt
+Ncnpv	NOUN	Case=Voc|Gender=Neut|Number=Plur
+Ncnsa	NOUN	Case=Acc|Gender=Neut|Number=Sing
+Ncnsa-n
+Ncnsa-t
+Ncnsa-v
+Ncnsan
+Ncnsant
+Ncnsay
+Ncnsd	NOUN	Case=Dat|Gender=Neut|Number=Sing
+Ncnsg	NOUN	Case=Gen|Gender=Neut|Number=Sing
+Ncnsg-v
+Ncnsgyt
+Ncnsi	NOUN	Case=Ins|Gender=Neut|Number=Sing
+Ncnsl	NOUN	Case=Loc|Gender=Neut|Number=Sing
+Ncnsn	NOUN	Case=Nom|Gender=Neut|Number=Sing
+Ncnsn-t
+Ncnsn-v
+Ncnsny
+Ncnsv	NOUN	Case=Voc|Gender=Neut|Number=Sing
+Ncpfa
+Nnfsa
+Npfpa	PROPN	Case=Acc|Gender=Fem|Number=Plur
+Npfpd	PROPN	Case=Dat|Gender=Fem|Number=Plur
+Npfpg	PROPN	Case=Gen|Gender=Fem|Number=Plur
+Npfpi	PROPN	Case=Ins|Gender=Fem|Number=Plur
+Npfpl	PROPN	Case=Loc|Gender=Fem|Number=Plur
+Npfpn	PROPN	Case=Nom|Gender=Fem|Number=Plur
+Npfpv	PROPN	Case=Voc|Gender=Fem|Number=Plur
+Npfsa	PROPN	Case=Acc|Gender=Fem|Number=Sing
+Npfsd	PROPN	Case=Dat|Gender=Fem|Number=Sing
+Npfsg	PROPN	Case=Gen|Gender=Fem|Number=Sing
+Npfsi	PROPN	Case=Ins|Gender=Fem|Number=Sing
+Npfsl	PROPN	Case=Loc|Gender=Fem|Number=Sing
+Npfsn	PROPN	Case=Nom|Gender=Fem|Number=Sing
+Npfsv	PROPN	Case=Voc|Gender=Fem|Number=Sing
+Npgsv
+Npmpa	PROPN	Case=Acc|Gender=Masc|Number=Plur
+Npmpd	PROPN	Case=Dat|Gender=Masc|Number=Plur
+Npmpg	PROPN	Case=Gen|Gender=Masc|Number=Plur
+Npmpi	PROPN	Case=Ins|Gender=Masc|Number=Plur
+Npmpl	PROPN	Case=Loc|Gender=Masc|Number=Plur
+Npmpn	PROPN	Case=Nom|Gender=Masc|Number=Plur
+Npmpv	PROPN	Case=Voc|Gender=Masc|Number=Plur
+Npmsa
+Npmsa-t
+Npmsan	PROPN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing
+Npmsay	PROPN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing
+Npmsd	PROPN	Case=Dat|Gender=Masc|Number=Sing
+Npmsg	PROPN	Case=Gen|Gender=Masc|Number=Sing
+Npmsi	PROPN	Case=Ins|Gender=Masc|Number=Sing
+Npmsl	PROPN	Case=Loc|Gender=Masc|Number=Sing
+Npmsn	PROPN	Case=Nom|Gender=Masc|Number=Sing
+Npmsnn-t
+Npmsny
+Npmsv	PROPN	Case=Voc|Gender=Masc|Number=Sing
+Npmsv-y
+Npnms-n
+Npnpa	PROPN	Case=Acc|Gender=Neut|Number=Plur
+Npnpd	PROPN	Case=Dat|Gender=Neut|Number=Plur
+Npnpg	PROPN	Case=Gen|Gender=Neut|Number=Plur
+Npnpi	PROPN	Case=Ins|Gender=Neut|Number=Plur
+Npnpl	PROPN	Case=Loc|Gender=Neut|Number=Plur
+Npnpn	PROPN	Case=Nom|Gender=Neut|Number=Plur
+Npnpv	PROPN	Case=Voc|Gender=Neut|Number=Plur
+Npnsa	PROPN	Case=Acc|Gender=Neut|Number=Sing
+Npnsan
+Npnsd	PROPN	Case=Dat|Gender=Neut|Number=Sing
+Npnsg	PROPN	Case=Gen|Gender=Neut|Number=Sing
+Npnsi	PROPN	Case=Ins|Gender=Neut|Number=Sing
+Npnsl	PROPN	Case=Loc|Gender=Neut|Number=Sing
+Npnsn	PROPN	Case=Nom|Gender=Neut|Number=Sing
+Npnsv	PROPN	Case=Voc|Gender=Neut|Number=Sing
+P
+POS_CORR
+Pd-fpa	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem
+Pd-fpd	DET	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem
+Pd-fpg	DET	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem
+Pd-fpi	DET	Case=Ins|Gender=Fem|Number=Plur|PronType=Dem
+Pd-fpl	DET	Case=Loc|Gender=Fem|Number=Plur|PronType=Dem
+Pd-fpn	DET	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem
+Pd-fsa	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem
+Pd-fsav
+Pd-fsd	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem
+Pd-fsg	DET	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem
+Pd-fsi	DET	Case=Ins|Gender=Fem|Number=Sing|PronType=Dem
+Pd-fsl	DET	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem
+Pd-fsn	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem
+Pd-mpa	DET	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem
+Pd-mpd	DET	Case=Dat|Gender=Masc|Number=Plur|PronType=Dem
+Pd-mpg	DET	Case=Gen|Gender=Masc|Number=Plur|PronType=Dem
+Pd-mpi	DET	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem
+Pd-mpl	DET	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem
+Pd-mpn	DET	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem
+Pd-msa
+Pd-msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+Pd-msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem
+Pd-msd	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem
+Pd-msg	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem
+Pd-msi	DET	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem
+Pd-msl	DET	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem
+Pd-msn	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem
+Pd-npa	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem
+Pd-npd	DET	Case=Dat|Gender=Neut|Number=Plur|PronType=Dem
+Pd-npg	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem
+Pd-npi	DET	Case=Ins|Gender=Neut|Number=Plur|PronType=Dem
+Pd-npl	DET	Case=Loc|Gender=Neut|Number=Plur|PronType=Dem
+Pd-npn	DET	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem
+Pd-nsa	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem
+Pd-nsd	DET	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem
+Pd-nsg	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem
+Pd-nsi	DET	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem
+Pd-nsl	DET	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem
+Pd-nsn	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem
+Pd1-sa
+Pd3fsd
+Pdsa
+Pdsn
+Pi--sa	PRON	Case=Acc|Number=Sing|PronType=Int,Rel
+Pi--sd	PRON	Case=Dat|Number=Sing|PronType=Int,Rel
+Pi--sg	PRON	Case=Gen|Number=Sing|PronType=Int,Rel
+Pi--si	PRON	Case=Ins|Number=Sing|PronType=Int,Rel
+Pi--sl	PRON	Case=Loc|Number=Sing|PronType=Int,Rel
+Pi--sn	PRON	Case=Nom|Number=Sing|PronType=Int,Rel
+Pi-fpa	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fpd	DET	Case=Dat|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fpg	DET	Case=Gen|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fpi	DET	Case=Ins|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fpl	DET	Case=Loc|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fpn	DET	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fpv	DET	Case=Voc|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pi-fsa	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-fsd	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-fsg	DET	Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-fsi	DET	Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-fsl	DET	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-fsn	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-fsv	DET	Case=Voc|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pi-mnn
+Pi-mpa	DET	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-mpd	DET	Case=Dat|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-mpg	DET	Case=Gen|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-mpi	DET	Case=Ins|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-mpl	DET	Case=Loc|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-mpn	DET	Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-mpv	DET	Case=Voc|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pi-msa
+Pi-msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msd	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msg	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msi	DET	Case=Ins|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msl	DET	Case=Loc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msn	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-msv	DET	Case=Voc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pi-npa	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-npd	DET	Case=Dat|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-npg	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-npi	DET	Case=Ins|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-npl	DET	Case=Loc|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-npn	DET	Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-npv	DET	Case=Voc|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pi-nsa	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi-nsd	DET	Case=Dat|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi-nsg	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi-nsi	DET	Case=Ins|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi-nsl	DET	Case=Loc|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi-nsn	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi-nsn-v
+Pi-nsv	DET	Case=Voc|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pi3fpa
+Pi3fsa
+Pi3fsn
+Pi3m-a	PRON	Case=Acc|Gender=Masc|PronType=Int,Rel
+Pi3m-d	PRON	Case=Dat|Gender=Masc|PronType=Int,Rel
+Pi3m-g	PRON	Case=Gen|Gender=Masc|PronType=Int,Rel
+Pi3m-i	PRON	Case=Ins|Gender=Masc|PronType=Int,Rel
+Pi3m-l	PRON	Case=Loc|Gender=Masc|PronType=Int,Rel
+Pi3m-n	PRON	Case=Nom|Gender=Masc|PronType=Int,Rel
+Pi3m-v	PRON	Case=Voc|Gender=Masc|PronType=Int,Rel
+Pi3mpa
+Pi3mpn
+Pi3msa
+Pi3msan
+Pi3msd
+Pi3msg
+Pi3msn
+Pi3n-a	PRON	Case=Acc|Gender=Neut|PronType=Int,Rel
+Pi3n-av
+Pi3n-d	PRON	Case=Dat|Gender=Neut|PronType=Int,Rel
+Pi3n-g	PRON	Case=Gen|Gender=Neut|PronType=Int,Rel
+Pi3n-i	PRON	Case=Ins|Gender=Neut|PronType=Int,Rel
+Pi3n-l	PRON	Case=Loc|Gender=Neut|PronType=Int,Rel
+Pi3n-n	PRON	Case=Nom|Gender=Neut|PronType=Int,Rel
+Pi3n-nn
+Pi3n-nt
+Pi3n-nv
+Pi3n-sn
+Pi3n-v	PRON	Case=Voc|Gender=Neut|PronType=Int,Rel
+Pi3ns
+Pi3nsa
+Pi3nsn
+Pp1-pa	PRON	Case=Acc|Number=Plur|Person=1|PronType=Prs
+Pp1-pd	PRON	Case=Dat|Number=Plur|Person=1|PronType=Prs
+Pp1-pg	PRON	Case=Gen|Number=Plur|Person=1|PronType=Prs
+Pp1-pg-t
+Pp1-pi	PRON	Case=Ins|Number=Plur|Person=1|PronType=Prs
+Pp1-pl	PRON	Case=Loc|Number=Plur|Person=1|PronType=Prs
+Pp1-pn	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs
+Pp1-pv	PRON	Case=Voc|Number=Plur|Person=1|PronType=Prs
+Pp1-sa	PRON	Case=Acc|Number=Sing|Person=1|PronType=Prs
+Pp1-say
+Pp1-sd	PRON	Case=Dat|Number=Sing|Person=1|PronType=Prs
+Pp1-sg	PRON	Case=Gen|Number=Sing|Person=1|PronType=Prs
+Pp1-si	PRON	Case=Ins|Number=Sing|Person=1|PronType=Prs
+Pp1-sl	PRON	Case=Loc|Number=Sing|Person=1|PronType=Prs
+Pp1-sn	PRON	Case=Nom|Number=Sing|Person=1|PronType=Prs
+Pp1fpn
+Pp1fsd
+Pp1mpa
+Pp1msg
+Pp1pny
+Pp2-pa	PRON	Case=Acc|Number=Plur|Person=2|PronType=Prs
+Pp2-pd	PRON	Case=Dat|Number=Plur|Person=2|PronType=Prs
+Pp2-pg	PRON	Case=Gen|Number=Plur|Person=2|PronType=Prs
+Pp2-pi	PRON	Case=Ins|Number=Plur|Person=2|PronType=Prs
+Pp2-pl	PRON	Case=Loc|Number=Plur|Person=2|PronType=Prs
+Pp2-pn	PRON	Case=Nom|Number=Plur|Person=2|PronType=Prs
+Pp2-pv	PRON	Case=Voc|Number=Plur|Person=2|PronType=Prs
+Pp2-sa	PRON	Case=Acc|Number=Sing|Person=2|PronType=Prs
+Pp2-sd	PRON	Case=Dat|Number=Sing|Person=2|PronType=Prs
+Pp2-sg	PRON	Case=Gen|Number=Sing|Person=2|PronType=Prs
+Pp2-si	PRON	Case=Ins|Number=Sing|Person=2|PronType=Prs
+Pp2-sl	PRON	Case=Loc|Number=Sing|Person=2|PronType=Prs
+Pp2-sn	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs
+Pp2-sv	PRON	Case=Voc|Number=Sing|Person=2|PronType=Prs
+Pp2fsg
+Pp2mpn
+Pp2msa
+Pp2nsd
+Pp3-pa	PRON	Case=Acc|Number=Plur|Person=3|PronType=Prs
+Pp3-pd	PRON	Case=Dat|Number=Plur|Person=3|PronType=Prs
+Pp3-pg	PRON	Case=Gen|Number=Plur|Person=3|PronType=Prs
+Pp3-pi	PRON	Case=Ins|Number=Plur|Person=3|PronType=Prs
+Pp3-pl	PRON	Case=Loc|Number=Plur|Person=3|PronType=Prs
+Pp3-sa
+Pp3fpa
+Pp3fpd
+Pp3fpn	PRON	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+Pp3fsa	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Pp3fsd	PRON	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Pp3fsg	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Pp3fsi	PRON	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Pp3fsl	PRON	Case=Loc|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Pp3fsn	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+Pp3mpa
+Pp3mpn	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+Pp3msa	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Pp3msd	PRON	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Pp3msg	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Pp3msi	PRON	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Pp3msl	PRON	Case=Loc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Pp3msn	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+Pp3n-n
+Pp3npa
+Pp3npn	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Prs
+Pp3nsa	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Pp3nsd	PRON	Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Pp3nsg	PRON	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Pp3nsi	PRON	Case=Ins|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Pp3nsl	PRON	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Pp3nsn	PRON	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs
+Pq	PRON	PronType=Int,Rel
+Pq-fpa	DET	Case=Acc|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pq-fpd	DET	Case=Dat|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pq-fpg	DET	Case=Gen|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pq-fpi	DET	Case=Ins|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pq-fpl	DET	Case=Loc|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pq-fpn	DET	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel
+Pq-fsa	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pq-fsd	DET	Case=Dat|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pq-fsg	DET	Case=Gen|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pq-fsi	DET	Case=Ins|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pq-fsl	DET	Case=Loc|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pq-fsn	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel
+Pq-mpa	DET	Case=Acc|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pq-mpd	DET	Case=Dat|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pq-mpg	DET	Case=Gen|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pq-mpi	DET	Case=Ins|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pq-mpl	DET	Case=Loc|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pq-mpn	DET	Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel
+Pq-msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-msd	DET	Case=Dat|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-msg	DET	Case=Gen|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-msi	DET	Case=Ins|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-msl	DET	Case=Loc|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-msn	DET	Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel
+Pq-n-n
+Pq-npa	DET	Case=Acc|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pq-npd	DET	Case=Dat|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pq-npg	DET	Case=Gen|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pq-npi	DET	Case=Ins|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pq-npl	DET	Case=Loc|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pq-npn	DET	Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel
+Pq-nsa	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pq-nsd	DET	Case=Dat|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pq-nsg	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pq-nsi	DET	Case=Ins|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pq-nsl	DET	Case=Loc|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pq-nsn	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel
+Pq3m-a	PRON	Case=Acc|Gender=Masc|PronType=Int,Rel
+Pq3m-d	PRON	Case=Dat|Gender=Masc|PronType=Int,Rel
+Pq3m-g	PRON	Case=Gen|Gender=Masc|PronType=Int,Rel
+Pq3m-i	PRON	Case=Ins|Gender=Masc|PronType=Int,Rel
+Pq3m-l	PRON	Case=Loc|Gender=Masc|PronType=Int,Rel
+Pq3m-n	PRON	Case=Nom|Gender=Masc|PronType=Int,Rel
+Pq3n-a	PRON	Case=Acc|Gender=Neut|PronType=Int,Rel
+Pq3n-d	PRON	Case=Dat|Gender=Neut|PronType=Int,Rel
+Pq3n-g	PRON	Case=Gen|Gender=Neut|PronType=Int,Rel
+Pq3n-i	PRON	Case=Ins|Gender=Neut|PronType=Int,Rel
+Pq3n-l	PRON	Case=Loc|Gender=Neut|PronType=Int,Rel
+Pq3n-n	PRON	Case=Nom|Gender=Neut|PronType=Int,Rel
+Pr-fsn
+Pr-nsn
+Ps1-pn
+Ps1fpa	DET	Case=Acc|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fpd	DET	Case=Dat|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fpg	DET	Case=Gen|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fpi	DET	Case=Ins|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fpl	DET	Case=Loc|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fpn	DET	Case=Nom|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fpv	DET	Case=Voc|Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1fsa	DET	Case=Acc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1fsd	DET	Case=Dat|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1fsg	DET	Case=Gen|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1fsi	DET	Case=Ins|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1fsl	DET	Case=Loc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1fsn	DET	Case=Nom|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1fsn-t
+Ps1fsv	DET	Case=Voc|Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1mpa	DET	Case=Acc|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1mpd	DET	Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1mpg	DET	Case=Gen|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1mpi	DET	Case=Ins|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1mpl	DET	Case=Loc|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1mpn	DET	Case=Nom|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1mpv	DET	Case=Voc|Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1msa-t
+Ps1msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msd	DET	Case=Dat|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msg	DET	Case=Gen|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msi	DET	Case=Ins|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msl	DET	Case=Loc|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msn	DET	Case=Nom|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1msn-n
+Ps1msn-t
+Ps1msn-v
+Ps1msv	DET	Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1npa	DET	Case=Acc|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1npd	DET	Case=Dat|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1npg	DET	Case=Gen|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1npi	DET	Case=Ins|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1npl	DET	Case=Loc|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1npn	DET	Case=Nom|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1npv	DET	Case=Voc|Gender=Neut|Number=Plur|Person=1|Poss=Yes|PronType=Prs
+Ps1nsa	DET	Case=Acc|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1nsd	DET	Case=Dat|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1nsg	DET	Case=Gen|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1nsi	DET	Case=Ins|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1nsl	DET	Case=Loc|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1nsn	DET	Case=Nom|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1nsn-t
+Ps1nsv	DET	Case=Voc|Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs
+Ps1pmn
+Ps2fpa	DET	Case=Acc|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fpd	DET	Case=Dat|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fpg	DET	Case=Gen|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fpi	DET	Case=Ins|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fpl	DET	Case=Loc|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fpn	DET	Case=Nom|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fpv	DET	Case=Voc|Gender=Fem|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2fsa	DET	Case=Acc|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2fsd	DET	Case=Dat|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2fsg	DET	Case=Gen|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2fsi	DET	Case=Ins|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2fsl	DET	Case=Loc|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2fsn	DET	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2fsv	DET	Case=Voc|Gender=Fem|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2mpa	DET	Case=Acc|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2mpd	DET	Case=Dat|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2mpg	DET	Case=Gen|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2mpi	DET	Case=Ins|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2mpl	DET	Case=Loc|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2mpn	DET	Case=Nom|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2mpv	DET	Case=Voc|Gender=Masc|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msd	DET	Case=Dat|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msg	DET	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msi	DET	Case=Ins|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msl	DET	Case=Loc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msn	DET	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2msv	DET	Case=Voc|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2npa	DET	Case=Acc|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2npd	DET	Case=Dat|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2npg	DET	Case=Gen|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2npi	DET	Case=Ins|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2npl	DET	Case=Loc|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2npn	DET	Case=Nom|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2npv	DET	Case=Voc|Gender=Neut|Number=Plur|Person=2|Poss=Yes|PronType=Prs
+Ps2nsa	DET	Case=Acc|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2nsd	DET	Case=Dat|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2nsg	DET	Case=Gen|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2nsi	DET	Case=Ins|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2nsl	DET	Case=Loc|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2nsn	DET	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps2nsv	DET	Case=Voc|Gender=Neut|Number=Sing|Person=2|Poss=Yes|PronType=Prs
+Ps3fpa	DET	Case=Acc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fpd	DET	Case=Dat|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fpg	DET	Case=Gen|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fpi	DET	Case=Ins|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fpl	DET	Case=Loc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fpn	DET	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fpv	DET	Case=Voc|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3fsa	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3fsd	DET	Case=Dat|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3fsg	DET	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3fsg-v
+Ps3fsi	DET	Case=Ins|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3fsl	DET	Case=Loc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3fsn	DET	Case=Nom|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3fsv	DET	Case=Voc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3mpa	DET	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3mpd	DET	Case=Dat|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3mpg	DET	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3mpi	DET	Case=Ins|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3mpl	DET	Case=Loc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3mpn	DET	Case=Nom|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3mpv	DET	Case=Voc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3msa
+Ps3msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msd	DET	Case=Dat|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msg	DET	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msi	DET	Case=Ins|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msl	DET	Case=Loc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msn	DET	Case=Nom|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3msn-t
+Ps3msnt
+Ps3msv	DET	Case=Voc|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3npa	DET	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3npd	DET	Case=Dat|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3npg	DET	Case=Gen|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3npi	DET	Case=Ins|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3npl	DET	Case=Loc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3npn	DET	Case=Nom|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3npn-t
+Ps3npv	DET	Case=Voc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs
+Ps3nsa	DET	Case=Acc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3nsd	DET	Case=Dat|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3nsg	DET	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3nsi	DET	Case=Ins|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3nsl	DET	Case=Loc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3nsn	DET	Case=Nom|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Ps3nsv	DET	Case=Voc|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs
+Px---a
+Px---d
+Px--a
+Px--sa	PRON	Case=Acc|PronType=Prs|Reflex=Yes
+Px--sd	PRON	Case=Dat|PronType=Prs|Reflex=Yes
+Px--sg	PRON	Case=Gen|PronType=Prs|Reflex=Yes
+Px--si	PRON	Case=Ins|PronType=Prs|Reflex=Yes
+Px--sl	PRON	Case=Loc|PronType=Prs|Reflex=Yes
+Px-fpa	DET	Case=Acc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fpd	DET	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fpg	DET	Case=Gen|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fpi	DET	Case=Ins|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fpl	DET	Case=Loc|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fpn	DET	Case=Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fsa	DET	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fsd	DET	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fsg	DET	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fsi	DET	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fsl	DET	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-fsn	DET	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-mpa	DET	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-mpd	DET	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-mpg	DET	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-mpi	DET	Case=Ins|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-mpl	DET	Case=Loc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-mpn	DET	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msa
+Px-msan	DET	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msay	DET	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msd	DET	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msg	DET	Case=Gen|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msi	DET	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msl	DET	Case=Loc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-msn	DET	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-npa	DET	Case=Acc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-npd	DET	Case=Dat|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-npg	DET	Case=Gen|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-npi	DET	Case=Ins|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-npl	DET	Case=Loc|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-npn	DET	Case=Nom|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-nsa	DET	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-nsd	DET	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-nsg	DET	Case=Gen|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-nsi	DET	Case=Ins|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-nsl	DET	Case=Loc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-nsn	DET	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes
+Px-san
+Qo	PART	_
+Qq	PART	_
+Qr	PART	Polarity=Pos
+Qx
+Qz	PART	Polarity=Neg
+Rgc	ADV	Degree=Cmp
+Rgp	ADV	Degree=Pos
+Rgpv
+Rgs	ADV	Degree=Sup
+Rr	ADV	VerbForm=Part
+S
+SI
+Sa	ADP	Case=Acc
+Sd	ADP	Case=Dat
+Sg	ADP	Case=Gen
+Si	ADP	Case=Ins
+Sl	ADP	Case=Loc
+Va
+Vaa1p	AUX	Mood=Cnd|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+Vaa1s	AUX	Mood=Cnd|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+Vaa2p	AUX	Mood=Cnd|Number=Plur|Person=2|Tense=Past|VerbForm=Fin
+Vaa2s	AUX	Mood=Cnd|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+Vaa3p	AUX	Mood=Cnd|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+Vaa3s	AUX	Mood=Cnd|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+Vae1p	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin
+Vae1s	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin
+Vae2p	AUX	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin
+Vae2s	AUX	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin
+Vae3p	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+Vae3s	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+Vaf1p	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+Vaf1s	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+Vaf2p	AUX	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin
+Vaf2s	AUX	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin
+Vaf3p	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+Vaf3s	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+Vam1p	AUX	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin
+Vam2p	AUX	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+Vam2s	AUX	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+Van	AUX	VerbForm=Inf
+Vap-pf	AUX	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+Vap-pm	AUX	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+Vap-pn	AUX	Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+Vap-sf	AUX	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+Vap-sm	AUX	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+Vap-sn	AUX	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+Var1p	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Var1py
+Var1s	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+Var2p	AUX	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+Var2s	AUX	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+Var2sn
+Var3p	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+Var3s	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+Var3sn
+Vca3s
+Vce3s
+Vcf3s
+Vcn
+Vcp-pf
+Vcp-pm
+Vcp-pn
+Vcp-s
+Vcp-sf
+Vcp-sm
+Vcp-sn
+Vcr-sm
+Vcr1p
+Vcr1s
+Vcr1s-y
+Vcr1sn
+Vcr2p
+Vcr2s
+Vcr3p
+Vcr3s
+Vm3rs
+Vm3s
+Vma1p	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin
+Vma1s	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin
+Vma2p	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin
+Vma2s	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin
+Vma3p	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin
+Vma3s	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin
+Vmc-sn
+Vmcp-sf
+Vme1p	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin
+Vme1s	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin
+Vme2p	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin
+Vme2s	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin
+Vme3p	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin
+Vme3s	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin
+Vme3s-y
+Vmf1p	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin
+Vmf1s	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin
+Vmf2p	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin
+Vmf2s	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin
+Vmf3p	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin
+Vmf3s	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin
+Vmm1p	VERB	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin
+Vmm2p	VERB	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin
+Vmm2s	VERB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin
+Vmn	VERB	VerbForm=Inf
+Vmp-fn
+Vmp-fp
+Vmp-mn
+Vmp-ms
+Vmp-np
+Vmp-pf	VERB	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+Vmp-pm	VERB	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+Vmp-pn	VERB	Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act
+Vmp-sf	VERB	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+Vmp-sm	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+Vmp-sn	VERB	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act
+Vmr11s
+Vmr1p	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin
+Vmr1s	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin
+Vmr1sn
+Vmr1sy
+Vmr2p	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin
+Vmr2s	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin
+Vmr3p	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin
+Vmr3py
+Vmr3s	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin
+Vmr3sn
+Vpm-sm
+X	X	_
+Xa	SYM	_
+Xe	SYM	_
+Xf	X	Foreign=Yes
+Xh	SYM	_
+Xw	SYM	_
+Y	_	_
+Yi
+Z	PUNCT	_
