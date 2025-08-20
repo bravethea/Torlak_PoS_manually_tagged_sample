@@ -5,3 +5,10 @@
 The tags use the MultextEast Version 6 specification for the Torlak dialect: https://nl.ijs.si/ME/V6/msd/html/msd-sr-tor.html
 
 The data was annotated within the TraCeBa project, funded by the Era Net Rus Plus scheme between 2018 and 2021. 
+
+## Mapping from MTE to UPOS
+
+Current exemplary run:
+```
+python `mte2upos.py tor_example.tsv tor_example.upos.tsv
+```
